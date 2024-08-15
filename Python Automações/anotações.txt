@@ -1,0 +1,12 @@
+SELENIUM
+    usar o google chrome ou firefox
+
+    Web driver manager serve pra utilizar o driver certo pro navegador direto, sem ter q instalar nada a mais
+
+    a configuraçao inicial do codigo sempre vai ser igual
+
+    xpath é a forma de encontrar os elementos em um site
+        pra pegar o xpath vai na janela de inspecionar, acha o elementos
+        vai em Copy
+        Copy Xpath
+    
